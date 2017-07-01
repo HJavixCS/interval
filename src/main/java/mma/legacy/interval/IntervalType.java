@@ -6,7 +6,7 @@ package mma.legacy.interval;
  *
  */
 
-public enum Opening {
+public enum IntervalType {
 	
 	LEFT_OPENED, 
 	RIGHT_OPENED, 
